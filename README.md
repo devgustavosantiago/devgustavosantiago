@@ -14,15 +14,15 @@ Formado em Arquitetura e Urbanismo pela UniRuy Wyden (2018). Desde de julho 2022
 <code><img height="30" src="https://avatars3.githubusercontent.com/u/18133?s=200&v=4"></code><br/><br/>
 
 ### ⚡️ Alguns fatos
-
 - 🔭 Estou buscando a primeira oportunidade para ingressar no universo da Programação
 - 🌱 Atualmente estou participando do Programa Start by Capgemini, cursando a trilha Java ☕
 - 🤔 Estou procurando ajuda para aprofundar meus conhecimentos sobre Desenvolvimento de Software
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  Estou procurando colaborar na criação de projetos web 
 - 🎉 Curiosidade: eu❤️assistir filmes, ler e escrever contos de ficção científica🎬 <br/><br/>
 
+![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+
 ### 📬 Me encontre em
 [![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/devgustavosantiago)](https://github.com/devgustavosantiago) 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavo-santiago-0b9b83166/)](https://www.linkedin.com/in/gustavo-santiago-0b9b83166)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:devgustavosantiago@gmail.com)](mailto:devgustavosantiago@gmail.com)
-
